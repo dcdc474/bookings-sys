@@ -1,0 +1,9 @@
+
+db:
+  host: "dcbookmyholiday.cvvndxt972kn.us-east-1.rds.amazonaws.com"
+  port: "3306"
+  user: "admin"
+  password: "administrator"
+  database: "BookMyHoliday"
+  
+  
