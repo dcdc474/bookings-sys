@@ -5,5 +5,9 @@ db:
   user: "admin"
   password: "administrator"
   database: "BookMyHoliday"
+
+autodiscover:
+  apiId: "17644582"
+  flow: "sys-booking-info-main"
   
   
